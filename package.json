@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "three": "0.157.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.11"
+  },
+  "keywords": [],
+  "name": "eclipse-upollo",
+  "description": ""
+}
